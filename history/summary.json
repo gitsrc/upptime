@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1140,
-    "timeDay": 1140,
-    "timeWeek": 1140,
-    "timeMonth": 1140,
-    "timeYear": 1140,
+    "time": 1186,
+    "timeDay": 1186,
+    "timeWeek": 1186,
+    "timeMonth": 1186,
+    "timeYear": 1186,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/sea.cloudslit.xyz",
     "slug": "sea",
     "status": "down",
-    "uptime": "9.73%",
-    "uptimeDay": "9.73%",
-    "uptimeWeek": "9.73%",
-    "uptimeMonth": "9.73%",
-    "uptimeYear": "9.73%",
+    "uptime": "47.21%",
+    "uptimeDay": "47.21%",
+    "uptimeWeek": "47.21%",
+    "uptimeMonth": "47.21%",
+    "uptimeYear": "47.21%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-24": 0
+      "2022-02-24": 7
     }
   }
 ]
