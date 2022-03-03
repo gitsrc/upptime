@@ -7,6 +7,8 @@ sites:
     url: https://blog.icorer.com
   - name: SEA-WEB
     url: https://sea.cloudslit.xyz
+  - name: SEAGO-WEB
+    url: https://seago.cloudslit.xyz
   - name: MSP-002
     url: https://msp-portal.gw002.oneitfarm.com/
   - name: MSP-103
