@@ -76,9 +76,9 @@
     "url": "https://msp-portal.gw103.oneitfarm.com/",
     "icon": "https://favicons.githubusercontent.com/msp-portal.gw103.oneitfarm.com",
     "slug": "msp-103",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +87,9 @@
     "timeWeek": 983,
     "timeMonth": 911,
     "timeYear": 911,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-04": 0
+    }
   },
   {
     "name": "MSP-106",
