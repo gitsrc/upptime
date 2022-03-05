@@ -22,9 +22,9 @@
     "url": "https://sea.cloudslit.xyz",
     "icon": "https://favicons.githubusercontent.com/sea.cloudslit.xyz",
     "slug": "sea-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 662,
     "timeMonth": 600,
     "timeYear": 600,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-05": 0
+    }
   },
   {
     "name": "SEAGO-WEB",
@@ -83,7 +85,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 917,
-    "timeDay": 956,
+    "timeDay": 1036,
     "timeWeek": 956,
     "timeMonth": 917,
     "timeYear": 917,
