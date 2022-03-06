@@ -22,18 +22,20 @@
     "url": "https://seago.cloudslit.xyz",
     "icon": "https://favicons.githubusercontent.com/seago.cloudslit.xyz",
     "slug": "seago-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 586,
-    "timeDay": 603,
-    "timeWeek": 586,
-    "timeMonth": 586,
-    "timeYear": 586,
-    "dailyMinutesDown": {}
+    "time": 534,
+    "timeDay": 492,
+    "timeWeek": 534,
+    "timeMonth": 534,
+    "timeYear": 534,
+    "dailyMinutesDown": {
+      "2022-03-06": 0
+    }
   },
   {
     "name": "MSP-002",
