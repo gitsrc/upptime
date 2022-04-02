@@ -46,19 +46,19 @@
     "url": "https://msp-portal.gw002.oneitfarm.com/",
     "icon": "https://favicons.githubusercontent.com/msp-portal.gw002.oneitfarm.com",
     "slug": "msp-002",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 916,
-    "timeDay": 890,
-    "timeWeek": 896,
-    "timeMonth": 905,
-    "timeYear": 916,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 915,
+    "timeDay": 875,
+    "timeWeek": 892,
+    "timeMonth": 904,
+    "timeYear": 915,
     "dailyMinutesDown": {
-      "2022-04-02": 0
+      "2022-04-02": 6
     }
   },
   {
