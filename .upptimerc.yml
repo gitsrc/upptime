@@ -11,8 +11,8 @@ sites:
     url: https://msp-portal.gw002.oneitfarm.com/
   - name: MSP-103
     url: https://msp-portal.gw103.oneitfarm.com/
-  - name: MSP-105
-    url: https://msp-portal.gw105.oneitfarm.com/
+ # - name: MSP-105
+ #   url: https://msp-portal.gw105.oneitfarm.com/
   - name: MSP-106
     url: https://msp-portal.gw106.oneitfarm.com/
 
