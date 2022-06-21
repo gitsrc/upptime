@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/blog.icorer.com",
     "slug": "blog-web",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 1116,
     "timeDay": 1018,
     "timeWeek": 956,
     "timeMonth": 1011,
     "timeYear": 1116,
     "dailyMinutesDown": {
-      "2022-06-21": 0
+      "2022-06-21": 9
     }
   },
   {
@@ -24,9 +24,9 @@
     "url": "https://sea.cloudslit.xyz",
     "icon": "https://favicons.githubusercontent.com/sea.cloudslit.xyz",
     "slug": "sea-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.65%",
@@ -36,6 +36,7 @@
     "timeMonth": 1006,
     "timeYear": 860,
     "dailyMinutesDown": {
+      "2022-06-21": 0,
       "2022-06-16": 25,
       "2022-03-28": 1,
       "2022-03-15": 4,
