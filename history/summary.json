@@ -55,19 +55,19 @@
     "url": "https://msp-portal.gw002.oneitfarm.com/",
     "icon": "https://favicons.githubusercontent.com/msp-portal.gw002.oneitfarm.com",
     "slug": "msp-002",
-    "status": "up",
+    "status": "down",
     "uptime": "98.86%",
-    "uptimeDay": "85.78%",
-    "uptimeWeek": "95.53%",
+    "uptimeDay": "85.73%",
+    "uptimeWeek": "95.52%",
     "uptimeMonth": "97.18%",
     "uptimeYear": "98.86%",
     "time": 930,
     "timeDay": 952,
     "timeWeek": 1152,
-    "timeMonth": 1069,
+    "timeMonth": 1072,
     "timeYear": 930,
     "dailyMinutesDown": {
-      "2022-09-06": 187,
+      "2022-09-06": 188,
       "2022-09-05": 17,
       "2022-09-04": 58,
       "2022-09-03": 47,
@@ -128,8 +128,7 @@
       "2022-06-23": 54,
       "2022-06-22": 25,
       "2022-06-21": 39,
-      "2022-06-20": 35,
-      "2022-06-17": 15
+      "2022-06-20": 35
     }
   },
   {
@@ -137,16 +136,16 @@
     "url": "https://msp-portal.gw103.oneitfarm.com/",
     "icon": "https://favicons.githubusercontent.com/msp-portal.gw103.oneitfarm.com",
     "slug": "msp-103",
-    "status": "up",
-    "uptime": "98.87%",
-    "uptimeDay": "85.88%",
-    "uptimeWeek": "95.38%",
+    "status": "down",
+    "uptime": "98.88%",
+    "uptimeDay": "85.86%",
+    "uptimeWeek": "95.59%",
     "uptimeMonth": "97.17%",
-    "uptimeYear": "98.87%",
+    "uptimeYear": "98.88%",
     "time": 950,
     "timeDay": 1646,
-    "timeWeek": 1084,
-    "timeMonth": 1073,
+    "timeWeek": 1088,
+    "timeMonth": 1074,
     "timeYear": 950,
     "dailyMinutesDown": {
       "2022-09-06": 187,
@@ -209,8 +208,7 @@
       "2022-06-23": 52,
       "2022-06-22": 25,
       "2022-06-21": 38,
-      "2022-06-20": 19,
-      "2022-06-17": 20
+      "2022-06-20": 19
     }
   },
   {
