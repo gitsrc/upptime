@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1079,
-    "timeDay": 792,
-    "timeWeek": 893,
-    "timeMonth": 1116,
+    "timeDay": 1144,
+    "timeWeek": 868,
+    "timeMonth": 1118,
     "timeYear": 1079,
     "dailyMinutesDown": {
       "2022-06-30": 38,
@@ -29,11 +29,11 @@
     "uptime": "99.07%",
     "uptimeDay": "98.95%",
     "uptimeWeek": "99.09%",
-    "uptimeMonth": "97.28%",
+    "uptimeMonth": "97.34%",
     "uptimeYear": "99.07%",
     "time": 971,
-    "timeDay": 804,
-    "timeWeek": 804,
+    "timeDay": 941,
+    "timeWeek": 816,
     "timeMonth": 1086,
     "timeYear": 971,
     "dailyMinutesDown": {
@@ -106,17 +106,16 @@
     "slug": "msp-103",
     "status": "up",
     "uptime": "99.08%",
-    "uptimeDay": "98.98%",
-    "uptimeWeek": "98.91%",
-    "uptimeMonth": "97.34%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.06%",
+    "uptimeMonth": "97.42%",
     "uptimeYear": "99.08%",
     "time": 961,
-    "timeDay": 942,
-    "timeWeek": 873,
+    "timeDay": 933,
+    "timeWeek": 866,
     "timeMonth": 983,
     "timeYear": 961,
     "dailyMinutesDown": {
-      "2022-11-01": 15,
       "2022-10-30": 31,
       "2022-10-28": 22,
       "2022-10-26": 42,
@@ -174,7 +173,8 @@
       "2022-08-06": 106,
       "2022-08-05": 34,
       "2022-08-04": 18,
-      "2022-08-01": 38
+      "2022-08-01": 38,
+      "2022-07-31": 15
     }
   },
   {
@@ -188,11 +188,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 915,
-    "timeDay": 952,
-    "timeWeek": 908,
-    "timeMonth": 876,
-    "timeYear": 915,
+    "time": 917,
+    "timeDay": 1230,
+    "timeWeek": 946,
+    "timeMonth": 892,
+    "timeYear": 917,
     "dailyMinutesDown": {}
   }
 ]
