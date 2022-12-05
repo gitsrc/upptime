@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1057,
-    "timeDay": 337,
-    "timeWeek": 339,
-    "timeMonth": 857,
-    "timeYear": 1057,
+    "time": 1054,
+    "timeDay": 192,
+    "timeWeek": 320,
+    "timeMonth": 829,
+    "timeYear": 1054,
     "dailyMinutesDown": {
       "2022-06-30": 38,
       "2022-06-21": 36
@@ -26,18 +26,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/msp-portal.gw002.oneitfarm.com.ico",
     "slug": "msp-002",
     "status": "up",
-    "uptime": "99.23%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "98.74%",
-    "uptimeMonth": "98.85%",
-    "uptimeYear": "99.23%",
+    "uptime": "99.22%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.80%",
+    "uptimeMonth": "98.87%",
+    "uptimeYear": "99.22%",
     "time": 974,
-    "timeDay": 966,
-    "timeWeek": 1015,
-    "timeMonth": 997,
+    "timeDay": 969,
+    "timeWeek": 1022,
+    "timeMonth": 1000,
     "timeYear": 974,
     "dailyMinutesDown": {
-      "2022-12-04": 6,
       "2022-12-03": 35,
       "2022-12-02": 41,
       "2022-11-29": 28,
@@ -101,7 +100,7 @@
       "2022-08-29": 67,
       "2022-08-28": 22,
       "2022-08-26": 16,
-      "2022-08-25": 94
+      "2022-08-25": 146
     }
   },
   {
@@ -110,18 +109,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/msp-portal.gw103.oneitfarm.com.ico",
     "slug": "msp-103",
     "status": "up",
-    "uptime": "99.18%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.09%",
-    "uptimeMonth": "98.70%",
-    "uptimeYear": "99.18%",
+    "uptime": "99.16%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.14%",
+    "uptimeMonth": "98.71%",
+    "uptimeYear": "99.16%",
     "time": 979,
-    "timeDay": 1571,
-    "timeWeek": 1087,
-    "timeMonth": 1110,
+    "timeDay": 1518,
+    "timeWeek": 1079,
+    "timeMonth": 1108,
     "timeYear": 979,
     "dailyMinutesDown": {
-      "2022-12-04": 5,
       "2022-12-03": 18,
       "2022-12-02": 41,
       "2022-11-29": 28,
@@ -185,7 +183,8 @@
       "2022-08-24": 37,
       "2022-08-23": 5,
       "2022-08-22": 21,
-      "2022-08-16": 133
+      "2022-08-16": 133,
+      "2022-08-14": 96
     }
   },
   {
@@ -200,9 +199,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 953,
-    "timeDay": 851,
-    "timeWeek": 819,
-    "timeMonth": 1279,
+    "timeDay": 941,
+    "timeWeek": 828,
+    "timeMonth": 1286,
     "timeYear": 953,
     "dailyMinutesDown": {}
   }
