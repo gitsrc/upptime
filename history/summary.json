@@ -25,18 +25,19 @@
     "url": "https://msp-portal.gw002.oneitfarm.com/",
     "icon": "https://icons.duckduckgo.com/ip3/msp-portal.gw002.oneitfarm.com.ico",
     "slug": "msp-002",
-    "status": "up",
-    "uptime": "99.23%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.75%",
-    "uptimeMonth": "98.93%",
-    "uptimeYear": "99.23%",
+    "status": "down",
+    "uptime": "99.24%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "98.74%",
+    "uptimeMonth": "98.92%",
+    "uptimeYear": "99.24%",
     "time": 973,
     "timeDay": 818,
-    "timeWeek": 1075,
+    "timeWeek": 1101,
     "timeMonth": 999,
     "timeYear": 973,
     "dailyMinutesDown": {
+      "2022-12-10": 1,
       "2022-12-06": 91,
       "2022-12-03": 35,
       "2022-12-02": 41,
@@ -101,7 +102,7 @@
       "2022-08-29": 67,
       "2022-08-28": 22,
       "2022-08-26": 16,
-      "2022-08-25": 94
+      "2022-08-25": 55
     }
   },
   {
@@ -109,18 +110,19 @@
     "url": "https://msp-portal.gw103.oneitfarm.com/",
     "icon": "https://icons.duckduckgo.com/ip3/msp-portal.gw103.oneitfarm.com.ico",
     "slug": "msp-103",
-    "status": "up",
-    "uptime": "99.17%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.20%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "98.92%",
     "uptimeMonth": "98.77%",
-    "uptimeYear": "99.17%",
+    "uptimeYear": "99.20%",
     "time": 979,
     "timeDay": 1065,
-    "timeWeek": 1055,
+    "timeWeek": 1097,
     "timeMonth": 1040,
     "timeYear": 979,
     "dailyMinutesDown": {
+      "2022-12-10": 0,
       "2022-12-06": 90,
       "2022-12-03": 18,
       "2022-12-02": 41,
@@ -184,8 +186,7 @@
       "2022-08-25": 144,
       "2022-08-24": 37,
       "2022-08-23": 5,
-      "2022-08-22": 21,
-      "2022-08-16": 133
+      "2022-08-22": 21
     }
   },
   {
