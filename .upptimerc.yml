@@ -5,8 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: BLOG-WEB
     url: https://blog.icorer.com
-#  - name: SEA-WEB
-#    url: https://sea.cloudslit.xyz
+  - name: SEA-WEB
+    url: https://sea.netlinks.world
   - name: MSP-002
     url: https://msp-portal.gw002.oneitfarm.com/
   - name: MSP-103
