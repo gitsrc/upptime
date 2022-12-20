@@ -7,6 +7,8 @@ sites:
     url: https://icorer.com
   - name: SEA-WEB
     url: https://sea.netlinks.world
+  - name: DISK-WEB
+    url: https://disk.netlinks.world
   - name: MSP-002
     url: https://msp-portal.gw002.oneitfarm.com/
   - name: MSP-103
