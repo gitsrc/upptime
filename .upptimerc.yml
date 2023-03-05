@@ -5,8 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: ICORER-SITE
     url: https://icorer.com
-  - name: SEA-WEB
-    url: https://sea.netlinks.world
+  #- name: SEA-WEB
+  #  url: https://sea.netlinks.world
   - name: DISK-WEB
     url: https://disk.netlinks.world
   - name: MSP-002
