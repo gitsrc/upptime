@@ -22,9 +22,9 @@
     "url": "https://disk.netlinks.world",
     "icon": "https://icons.duckduckgo.com/ip3/disk.netlinks.world.ico",
     "slug": "disk-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 413,
     "timeMonth": 322,
     "timeYear": 295,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-26": 0
+    }
   },
   {
     "name": "MSP-002",
@@ -129,7 +131,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/msp-portal.gw103.oneitfarm.com.ico",
     "slug": "msp-103",
     "status": "up",
-    "uptime": "99.39%",
+    "uptime": "99.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.52%",
