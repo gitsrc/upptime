@@ -22,9 +22,9 @@
     "url": "https://disk.netlinks.world",
     "icon": "https://icons.duckduckgo.com/ip3/disk.netlinks.world.ico",
     "slug": "disk-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
@@ -34,6 +34,7 @@
     "timeMonth": 243,
     "timeYear": 282,
     "dailyMinutesDown": {
+      "2023-04-27": 0,
       "2023-03-26": 327
     }
   },
@@ -43,18 +44,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/msp-portal.gw002.oneitfarm.com.ico",
     "slug": "msp-002",
     "status": "up",
-    "uptime": "99.46%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.86%",
+    "uptime": "99.45%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.36%",
     "time": 1041,
-    "timeDay": 985,
+    "timeDay": 936,
     "timeWeek": 859,
     "timeMonth": 1120,
     "timeYear": 1053,
     "dailyMinutesDown": {
-      "2023-04-27": 6,
       "2023-04-11": 23,
       "2023-04-09": 30,
       "2023-03-03": 135,
@@ -122,7 +122,8 @@
       "2022-09-04": 58,
       "2022-09-03": 47,
       "2022-09-02": 56,
-      "2022-09-01": 21
+      "2022-09-01": 21,
+      "2022-08-31": 47
     }
   },
   {
@@ -132,17 +133,16 @@
     "slug": "msp-103",
     "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.35%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.34%",
     "time": 1038,
-    "timeDay": 990,
+    "timeDay": 1019,
     "timeWeek": 971,
     "timeMonth": 1154,
     "timeYear": 1047,
     "dailyMinutesDown": {
-      "2023-04-27": 5,
       "2023-04-09": 30,
       "2023-03-03": 135,
       "2023-03-02": 52,
@@ -209,7 +209,7 @@
       "2022-08-29": 66,
       "2022-08-28": 21,
       "2022-08-26": 16,
-      "2022-08-25": 19
+      "2022-08-25": 35
     }
   },
   {
