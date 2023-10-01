@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 156,
-    "timeDay": 86,
-    "timeWeek": 128,
-    "timeMonth": 141,
+    "timeDay": 182,
+    "timeWeek": 120,
+    "timeMonth": 145,
     "timeYear": 156,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 275,
-    "timeDay": 422,
-    "timeWeek": 282,
-    "timeMonth": 265,
+    "timeDay": 388,
+    "timeWeek": 310,
+    "timeMonth": 269,
     "timeYear": 275,
     "dailyMinutesDown": {
       "2023-03-26": 327
@@ -43,18 +43,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/msp-portal.gw002.oneitfarm.com.ico",
     "slug": "msp-002",
     "status": "down",
-    "uptime": "99.32%",
+    "uptime": "99.15%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "75.52%",
-    "uptimeMonth": "92.99%",
-    "uptimeYear": "98.99%",
-    "time": 1444,
+    "uptimeWeek": "61.14%",
+    "uptimeMonth": "89.68%",
+    "uptimeYear": "98.72%",
+    "time": 1445,
     "timeDay": 0,
-    "timeWeek": 3058,
-    "timeMonth": 2764,
-    "timeYear": 1481,
+    "timeWeek": 3158,
+    "timeMonth": 2789,
+    "timeYear": 1482,
     "dailyMinutesDown": {
-      "2023-09-30": 61,
+      "2023-10-01": 71,
+      "2023-09-30": 1440,
       "2023-09-29": 1440,
       "2023-09-28": 966,
       "2023-09-20": 204,
@@ -113,8 +114,7 @@
       "2022-10-08": 69,
       "2022-10-05": 21,
       "2022-10-04": 39,
-      "2022-10-03": 15,
-      "2022-10-01": 24
+      "2022-10-03": 15
     }
   },
   {
@@ -129,9 +129,9 @@
     "uptimeMonth": "98.60%",
     "uptimeYear": "99.47%",
     "time": 1368,
-    "timeDay": 1547,
-    "timeWeek": 1228,
-    "timeMonth": 2493,
+    "timeDay": 1235,
+    "timeWeek": 1240,
+    "timeMonth": 2512,
     "timeYear": 1405,
     "dailyMinutesDown": {
       "2023-09-24": 18,
@@ -186,8 +186,7 @@
       "2022-10-09": 45,
       "2022-10-08": 68,
       "2022-10-05": 21,
-      "2022-10-04": 38,
-      "2022-10-01": 23
+      "2022-10-04": 38
     }
   },
   {
@@ -201,11 +200,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 940,
-    "timeDay": 1442,
-    "timeWeek": 1083,
-    "timeMonth": 949,
-    "timeYear": 950,
+    "time": 941,
+    "timeDay": 1434,
+    "timeWeek": 1160,
+    "timeMonth": 956,
+    "timeYear": 951,
     "dailyMinutesDown": {}
   }
 ]
