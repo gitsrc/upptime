@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 154,
-    "timeDay": 352,
-    "timeWeek": 157,
-    "timeMonth": 138,
+    "timeDay": 210,
+    "timeWeek": 166,
+    "timeMonth": 142,
     "timeYear": 154,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 277,
-    "timeDay": 91,
-    "timeWeek": 264,
-    "timeMonth": 302,
-    "timeYear": 277,
+    "time": 276,
+    "timeDay": 95,
+    "timeWeek": 246,
+    "timeMonth": 291,
+    "timeYear": 276,
     "dailyMinutesDown": {
       "2023-03-26": 327
     }
@@ -44,17 +44,16 @@
     "slug": "msp-103",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.81%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "99.67%",
-    "time": 1402,
-    "timeDay": 1306,
-    "timeWeek": 1484,
-    "timeMonth": 1513,
-    "timeYear": 1462,
+    "time": 1401,
+    "timeDay": 1288,
+    "timeWeek": 1473,
+    "timeMonth": 1509,
+    "timeYear": 1464,
     "dailyMinutesDown": {
-      "2023-10-29": 6,
       "2023-10-23": 24,
       "2023-10-13": 55,
       "2023-09-24": 18,
@@ -92,8 +91,7 @@
       "2022-11-07": 25,
       "2022-11-06": 26,
       "2022-11-05": 19,
-      "2022-11-03": 15,
-      "2022-10-30": 31
+      "2022-11-03": 15
     }
   },
   {
@@ -108,9 +106,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 974,
-    "timeDay": 1288,
-    "timeWeek": 1479,
-    "timeMonth": 1428,
+    "timeDay": 1216,
+    "timeWeek": 1468,
+    "timeMonth": 1421,
     "timeYear": 995,
     "dailyMinutesDown": {}
   }
