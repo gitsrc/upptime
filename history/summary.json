@@ -22,11 +22,11 @@
     "url": "https://disk.netlinks.world",
     "icon": "https://icons.duckduckgo.com/ip3/disk.netlinks.world.ico",
     "slug": "disk-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "85.29%",
-    "uptimeWeek": "96.63%",
-    "uptimeMonth": "99.22%",
+    "uptimeDay": "88.24%",
+    "uptimeWeek": "96.69%",
+    "uptimeMonth": "99.24%",
     "uptimeYear": "99.86%",
     "time": 305,
     "timeDay": 2057,
@@ -34,7 +34,7 @@
     "timeMonth": 546,
     "timeYear": 305,
     "dailyMinutesDown": {
-      "2023-11-18": 41,
+      "2023-11-18": 35,
       "2023-11-17": 299,
       "2023-03-26": 327
     }
