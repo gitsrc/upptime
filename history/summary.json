@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 153,
-    "timeDay": 99,
-    "timeWeek": 93,
-    "timeMonth": 140,
-    "timeYear": 153,
+    "time": 152,
+    "timeDay": 93,
+    "timeWeek": 91,
+    "timeMonth": 138,
+    "timeYear": 152,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,34 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 298,
-    "timeDay": 298,
-    "timeWeek": 298,
-    "timeMonth": 298,
-    "timeYear": 298,
+    "time": 376,
+    "timeDay": 376,
+    "timeWeek": 376,
+    "timeMonth": 376,
+    "timeYear": 376,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "DISK-WEB",
+    "url": "https://disk.iotlabx.xyz",
+    "icon": "https://icons.duckduckgo.com/ip3/disk.iotlabx.xyz.ico",
+    "slug": "disk-web",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 329,
+    "timeDay": 598,
+    "timeWeek": 982,
+    "timeMonth": 678,
+    "timeYear": 329,
+    "dailyMinutesDown": {
+      "2023-11-22": 35,
+      "2023-11-18": 51,
+      "2023-11-17": 299,
+      "2023-03-26": 327
+    }
   }
 ]
