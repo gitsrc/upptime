@@ -65,19 +65,19 @@
     "url": "tendermint.icegiant.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ice-giant-node",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 453,
-    "timeDay": 454,
-    "timeWeek": 453,
-    "timeMonth": 453,
-    "timeYear": 453,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 430,
+    "timeDay": 378,
+    "timeWeek": 430,
+    "timeMonth": 430,
+    "timeYear": 430,
     "dailyMinutesDown": {
-      "2023-12-04": 0
+      "2023-12-04": 6
     }
   }
 ]
