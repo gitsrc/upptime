@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 152,
-    "timeDay": 233,
-    "timeWeek": 139,
-    "timeMonth": 145,
-    "timeYear": 152,
+    "timeDay": 95,
+    "timeWeek": 132,
+    "timeMonth": 146,
+    "timeYear": 151,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ice-giant-node",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 374,
-    "timeDay": 382,
-    "timeWeek": 419,
+    "uptime": "99.96%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 368,
+    "timeDay": 320,
+    "timeWeek": 285,
     "timeMonth": 374,
-    "timeYear": 374,
+    "timeYear": 368,
     "dailyMinutesDown": {
-      "2023-12-27": 6,
       "2023-12-18": 19
     }
   }
