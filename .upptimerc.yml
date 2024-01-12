@@ -6,7 +6,9 @@ sites:
   - name: ICORER-SITE
     url: https://icorer.com
   - name: IceGiant-Node
-    url: tendermint.icegiant.xyz
+    url: http://tendermint.icegiant.xyz
+  - name: SEA-WEB
+    url: http://sea.iotlabx.xyz
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
