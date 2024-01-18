@@ -9,6 +9,8 @@ sites:
     url: https://tendermint.icegiant.xyz
   - name: BV-WEB
     url: https://bv.iotlabx.xyz
+  - name: DISK-WEB
+    url: https://disk-hc.iotlabx.xyz
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
