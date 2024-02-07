@@ -4,7 +4,7 @@
     "url": "https://icorer.com",
     "icon": "https://icons.duckduckgo.com/ip3/icorer.com.ico",
     "slug": "icorer-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 153,
     "timeMonth": 154,
     "timeYear": 151,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-07": 0
+    }
   },
   {
     "name": "IceGiant-Node",
@@ -63,11 +65,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/disk-hc.iotlabx.xyz.ico",
     "slug": "disk-web",
     "status": "up",
-    "uptime": "97.14%",
+    "uptime": "97.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
-    "uptimeYear": "97.14%",
+    "uptimeYear": "97.25%",
     "time": 311,
     "timeDay": 84,
     "timeWeek": 215,
