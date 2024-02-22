@@ -1,7 +1,7 @@
 url: https://tendermint.icegiant.xyz
-status: up
-code: 200
-responseTime: 94
-lastUpdated: 2024-02-21T23:15:40.130Z
+status: down
+code: 502
+responseTime: 302
+lastUpdated: 2024-02-22T06:29:47.696Z
 startTime: 2023-11-27T10:21:11.899Z
 generator: Upptime <https://github.com/upptime/upptime>
