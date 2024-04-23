@@ -5,8 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: ICORER-SITE
     url: https://icorer.com
-  - name: IceGiant-Node
-    url: https://tendermint.icegiant.xyz
+  #- name: IceGiant-Node
+  #  url: https://tendermint.icegiant.xyz
   - name: CS-WEB
     url: https://cs.iotlabx.xyz
   - name: DISK-WEB
