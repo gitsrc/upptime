@@ -72,19 +72,19 @@
     "url": "https://ide-hc.warmstorage.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/ide-hc.warmstorage.xyz.ico",
     "slug": "hc-warmstorage",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 211,
-    "timeDay": 268,
-    "timeWeek": 246,
-    "timeMonth": 211,
-    "timeYear": 211,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "98.23%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 1234,
+    "timeDay": 10472,
+    "timeWeek": 2800,
+    "timeMonth": 1234,
+    "timeYear": 1234,
     "dailyMinutesDown": {
-      "2024-06-22": 0
+      "2024-06-22": 26
     }
   }
 ]
