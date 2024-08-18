@@ -9,8 +9,8 @@ sites:
   #  url: https://tendermint.icegiant.xyz
   - name: CS-WEB
     url: https://cs.iotlabx.xyz
-  - name: DISK-WEB
-    url: https://disk-hc.iotlabx.xyz
+  # - name: DISK-WEB
+  #   url: https://disk-hc.iotlabx.xyz
   - name: HC-WARMSTORAGE
     url: https://ide-hc.warmstorage.xyz/
 
