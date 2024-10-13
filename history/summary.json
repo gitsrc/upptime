@@ -11,37 +11,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
     "time": 158,
-    "timeDay": 183,
+    "timeDay": 179,
     "timeWeek": 176,
     "timeMonth": 171,
     "timeYear": 162,
     "dailyMinutesDown": {
       "2024-02-08": 623,
       "2024-02-07": 207
-    }
-  },
-  {
-    "name": "CS-WEB",
-    "url": "https://cs.iotlabx.xyz",
-    "icon": "https://icons.duckduckgo.com/ip3/cs.iotlabx.xyz.ico",
-    "slug": "cs-web",
-    "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.92%",
-    "time": 397,
-    "timeDay": 530,
-    "timeWeek": 1839,
-    "timeMonth": 1114,
-    "timeYear": 397,
-    "dailyMinutesDown": {
-      "2024-10-13": 0,
-      "2024-09-14": 31,
-      "2024-09-12": 83,
-      "2024-06-06": 180,
-      "2024-04-07": 17
     }
   },
   {
@@ -55,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 388,
-    "timeDay": 336,
-    "timeWeek": 254,
+    "time": 387,
+    "timeDay": 308,
+    "timeWeek": 258,
     "timeMonth": 280,
-    "timeYear": 388,
+    "timeYear": 387,
     "dailyMinutesDown": {
       "2024-06-22": 26
     }
