@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/icorer.com.ico",
     "slug": "icorer-site",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
     "time": 159,
-    "timeDay": 116,
-    "timeWeek": 181,
-    "timeMonth": 176,
-    "timeYear": 164,
+    "timeDay": 160,
+    "timeWeek": 165,
+    "timeMonth": 175,
+    "timeYear": 163,
     "dailyMinutesDown": {
       "2024-02-08": 623,
       "2024-02-07": 207
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 374,
-    "timeDay": 144,
+    "time": 373,
+    "timeDay": 263,
     "timeWeek": 242,
-    "timeMonth": 284,
-    "timeYear": 374,
+    "timeMonth": 289,
+    "timeYear": 373,
     "dailyMinutesDown": {
       "2024-06-22": 26
     }
