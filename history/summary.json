@@ -25,7 +25,7 @@
     "url": "https://ide-hc.warmstorage.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/ide-hc.warmstorage.xyz.ico",
     "slug": "hc-warmstorage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -37,6 +37,7 @@
     "timeMonth": 243,
     "timeYear": 351,
     "dailyMinutesDown": {
+      "2024-11-26": 0,
       "2024-11-11": 29,
       "2024-06-22": 26
     }
