@@ -4,17 +4,19 @@
     "url": "https://icorer.com",
     "icon": "https://icons.duckduckgo.com/ip3/icorer.com.ico",
     "slug": "icorer-site",
-    "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "93.52%",
+    "uptimeWeek": "99.07%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.98%",
     "time": 264,
-    "timeDay": 290,
-    "timeWeek": 351,
-    "timeMonth": 312,
+    "timeDay": 273,
+    "timeWeek": 339,
+    "timeMonth": 310,
     "timeYear": 295,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-18": 93
+    }
   }
 ]
